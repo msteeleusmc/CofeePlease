@@ -1,0 +1,8 @@
+https://www.hackster.io/technology-center-de-volksbank-nl/aws-iot-buttons-fresh-cloud-coffee-95423f
+https://aws.amazon.com/iotbutton/
+https://docs.aws.amazon.com/iot/latest/developerguide/aws-iot-how-it-works.html
+https://docs.aws.amazon.com/solutions/latest/remote-monitoring-of-iot-devices/remote-monitoring-of-iot-devices.pdf#overview
+https://aws.amazon.com/iot-analytics/
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/internet-of-things-services.html#aws-iot-button
+https://www.trinimbus.com/blog/high-caffeine-fun-with-aws-iot-introducing-trinimbus-iot-coffeebot/
+https://www.hackster.io/technology-center-de-volksbank-nl/aws-iot-buttons-fresh-cloud-coffee-95423f
